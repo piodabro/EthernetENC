@@ -5,10 +5,10 @@
 
 /* for TCP */
 #ifndef UIP_SOCKET_NUMPACKETS
-#define UIP_SOCKET_NUMPACKETS    3
+#define UIP_SOCKET_NUMPACKETS    6
 #endif
 #ifndef UIP_CONF_MAX_CONNECTIONS
-#define UIP_CONF_MAX_CONNECTIONS 4
+#define UIP_CONF_MAX_CONNECTIONS 3
 #endif
 
 /* for UDP
